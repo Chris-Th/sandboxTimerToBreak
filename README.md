@@ -1,6 +1,6 @@
 # Countdown Timer
 
-countdown timer webpage.
+totally awesome countdown timer webpage.
 
 ## Description
 
